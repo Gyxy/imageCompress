@@ -1,0 +1,26 @@
+{
+  "name": "image-compress",
+  "version": "1.0.3",
+  "description": "image compress",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": ["image", "compress", "wasm", "webassembly", "avif", "jpeg", "jxl", "png", "webp"],
+  "author": "liaowang <lvv.bnv@gmail.com>",
+  "devDependencies": {
+    "@jsquash/avif": "^1.1.0",
+    "@jsquash/jpeg": "^1.2.0",
+    "@jsquash/jxl": "^1.0.0",
+    "@jsquash/png": "^2.0.0",
+    "@jsquash/webp": "^1.2.0"
+  },
+  "dependencies":{
+    "@jsquash/avif": "^1.1.0",
+    "@jsquash/jpeg": "^1.2.0",
+    "@jsquash/jxl": "^1.0.0",
+    "@jsquash/png": "^2.0.0",
+    "@jsquash/webp": "^1.2.0"
+  },
+  "license": "ISC"
+}
