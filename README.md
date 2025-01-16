@@ -1,8 +1,8 @@
-# yh-image-compress
+# image-compress
 
 ## 简介
 
-yh-image-compress 是一个基于 [`@jsquash/avif` `@jsquash/jpeg` `@jsquash/jxl` `@jsquash/png` `@jsquash/webp`]((https://github.com/jamsinclair/jSquash)) 的图片压缩和格式转换库，支持 `png`、`jpg`、`jpeg`、`gif`、`webp` 等常见图片格式转换和图片压缩。
+image-compress 是一个基于 [`@jsquash/avif` `@jsquash/jpeg` `@jsquash/jxl` `@jsquash/png` `@jsquash/webp`]((https://github.com/jamsinclair/jSquash)) 的图片压缩和格式转换库，支持 `png`、`jpg`、`jpeg`、`gif`、`webp` 等常见图片格式转换和图片压缩。
 
 ## 安装
 
